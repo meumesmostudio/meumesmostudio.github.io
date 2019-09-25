@@ -1,14 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Data Verso
+description: Isso nao eh pra ser um blog
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: http://dataverso.com.br
+
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Data Verso
+user_description: DataVerso é uma empresa de ciência de dados com o foco em implementações de soluções de Inteligência Artificial e Machine Learning para melhorar os processos de tomadas de decisões em empresas e negócios. Nossa missão é trazer valor através da otimização de diversos processos inerentes ao cotidiano das empresas, tais como People Analytics (RH), análise e projeção de vendas, identificação de tendências, análise de marketing e análise financeira. Nossa empresa utiliza as melhores ferramentas do mercado e conta com especialistas para entregar soluções robustas e confiáveis para sustentar tomadas de decisões ótimas e inovadoras.
+user_title: Cientista de Dados
+email: pedrolealdino@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
